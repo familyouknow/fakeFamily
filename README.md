@@ -144,7 +144,6 @@
 })();
 ```
 
-![Untitled](%E4%B8%BB%E6%92%AD%E5%AE%B6%E4%BA%BA%E9%89%B4%E5%AE%9A%E5%99%A8%20c31edec2e11047eb826c1f41f419de59/Untitled%203.png)
 
 # 已知信息
 
